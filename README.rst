@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Repositorie created for public the tutorial in readthedocs.
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Includes an extra file for default configuration .readthedocs.yaml
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://cardano-e2e-tutorial.readthedocs.io/en/latest/
